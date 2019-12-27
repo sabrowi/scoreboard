@@ -1,0 +1,40 @@
+.center {
+  width: 600px;
+  margin: auto;
+}
+
+.board {
+  width: 600px;
+  margin: 50px auto 20px;
+  border: 2px solid #333;
+}
+
+.addplayer {
+  width: 450px;
+  margin: auto;
+  margin-bottom: 50px;
+}
+
+.header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+}
+
+.row {
+  margin: 0;
+}
+
+.row.dashed {
+  background-color: whitesmoke;
+}
+
+.score {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.no-player {
+  text-align: center;
+  font-style: italic;
+}
